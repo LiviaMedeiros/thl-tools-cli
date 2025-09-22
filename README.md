@@ -4,11 +4,7 @@ If you're here, you're probably looking to have fun with the files of The Hundre
 
 ## Requirements
 
-First, you need to install Rust. Just follow the instructions on [this](https://www.rust-lang.org/fr/tools/install) site.
-
-Then, open your terminal, and get the code of this repository, either by cloning it using `git clone https://github.com/er1t-h/thl-tools-cli.git`, or extracting [this](https://github.com/er1t-h/thl-tools-cli/archive/refs/heads/main.zip) archive.
-
-Once that's done, enter the directory in your terminal. (if you've chosen the extracting solution, right-click in the folder, and open in terminal).
+First, download [this](https://github.com/er1t-h/thl-tools-cli/releases/download/v0.1.0/thl-tools-cli.exe) executable, and open the directory in which you stored it in a terminal.
 
 Then, you'll need to know the path to your game file. Most of the time, it should be something like `C:\Program Files (x86)\Steam\steamapps\common\The Hundred Line -Last Defense Academy-`
 
